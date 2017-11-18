@@ -1,8 +1,3 @@
 test
 iii
-<<<<<<< Updated upstream
-yyy
-rrr
-=======
-yyyuuuuu
->>>>>>> Stashed changes
+es
